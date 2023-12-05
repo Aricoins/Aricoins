@@ -1,3 +1,6 @@
+<img width="922" alt="image" src="https://github.com/Aricoins/Aricoins/assets/95644790/108a09c8-8ac9-4736-9b41-bcf225497d1d">
+
+
 ¡Saludos! Soy Ariel García Rogel, un Developer Fullstack con especialización en Base de Datos. Mi historia en la tecnología comenzó hace más de 10 años, y desde entonces, he descubierto en la programación la herramienta perfecta para fusionar mi pasión con mi trabajo, generando un impacto positivo en mi entorno.
 
 ¿En qué me enfoco actualmente?
