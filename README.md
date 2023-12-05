@@ -13,7 +13,11 @@ Busco crear código de alto impacto, orientado a resolver los desafíos cotidian
 En mi stack de tecnologías, destaco en el uso de PostgreSQl, Sequelize, Node.js, React.js, Redux, Express.js y, por supuesto, JavaScript.
 
 ¡Disfruto del mundo tecnológico y enfrentar nuevos desafíos! 
-Conéctate conmigo a través de LinkedIn 
+| Conéctate conmigo a través de LinkedIn 
 https://www.linkedin.com/in/aegr/
-o revisa mis proyectos en GitHub.
+| Revisa mis proyectos en GitHub
+https://github.com/Aricoins
+| Escribime
+arielgarcia79@gmail.com
+
 
