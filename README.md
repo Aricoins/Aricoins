@@ -12,7 +12,8 @@ Busco crear código de alto impacto, orientado a resolver los desafíos cotidian
 ¿Cuáles son las tecnologías que manejo? <br>
 En mi stack de tecnologías, destaco en el uso de PostgreSQl, Sequelize, Node.js, React.js, Redux, Express.js y, por supuesto, JavaScript.
 
-¡Disfruto del mundo tecnológico y enfrentar nuevos desafíos! 
+¡Disfruto del mundo tecnológico y enfrentar nuevos desafíos! <br>
+
 | Conéctate conmigo a través de LinkedIn <br>
 https://www.linkedin.com/in/aegr/ <br>
 | Revisa mis proyectos en GitHub <br>
