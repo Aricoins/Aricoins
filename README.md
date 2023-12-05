@@ -3,13 +3,13 @@
 
 ¡Saludos! Soy Ariel García Rogel, un Developer Fullstack con especialización en Base de Datos. Mi historia en la tecnología comenzó hace más de 10 años, y desde entonces, he descubierto en la programación la herramienta perfecta para fusionar mi pasión con mi trabajo, generando un impacto positivo en mi entorno.
 
-¿En qué me enfoco actualmente?<br>
+<b>¿En qué me enfoco actualmente?</b><br>
 Me dedico a la creación de proyectos que no solo me permiten aprender, sino también aplicar las últimas tecnologías que he dominado. Mi especialización se encuentra en el desarrollo con JavaScript.
 
-¿Cuál es mi objetivo principal?<br>
+<b>¿Cuál es mi objetivo principal?</b><br>
 Busco crear código de alto impacto, orientado a resolver los desafíos cotidianos. Mi meta es estar a la vanguardia de las soluciones tecnológicas, adaptándome constantemente a las nuevas necesidades que surgen. Mi enfoque va más allá de solucionar problemas existentes; me apasiona implementar nuevas formas de abordarlos.
 
-¿Cuáles son las tecnologías que manejo? <br>
+<b>¿Cuáles son las tecnologías que manejo?</b> <br>
 En mi stack de tecnologías, destaco en el uso de PostgreSQL, Sequelize, Node.js, React.js, Redux, Express.js y, por supuesto, JavaScript.
 
 ¡Disfruto del mundo tecnológico y enfrentar nuevos desafíos! <br> <br>
