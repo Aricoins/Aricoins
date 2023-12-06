@@ -15,11 +15,11 @@ En mi stack de tecnologías, destaco en el uso de PostgreSQL, Sequelize, Node.js
 
 Puedo ser parte de su equipó.
 
-| Visite mi portafolio <br>
-https://portfolio-dmao.vercel.app/
-| Siga mis publicaciones en LinkedIn <br>
+| Visitá mi portafolio <br>
+https://portfolio-dmao.vercel.app/<br>
+| Seguí mis publicaciones en LinkedIn <br>
 https://www.linkedin.com/in/aegr/ <br>
-| Revise mis proyectos en GitHub <br>
+| Revisá mis proyectos en GitHub <br>
 https://github.com/Aricoins<br>
-| Escríbame<br>
+| Escribime<br>
 arielgarcia79@gmail.com<br>
