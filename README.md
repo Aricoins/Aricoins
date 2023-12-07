@@ -13,7 +13,6 @@ En mi stack de tecnologías, destaco en el uso de PostgreSQL, Sequelize, Node.js
 
 ¡Disfruto del mundo tecnológico y enfrentar nuevos desafíos! <br> <br>
 
-Puedo ser parte de su equipó.
 
 | Visitá mi portafolio <br>
 https://portfolio-dmao.vercel.app/<br>
