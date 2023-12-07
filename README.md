@@ -9,7 +9,7 @@ Me dedico a la creación de proyectos que no solo me permiten aprender, sino tam
 Busco crear código de alto impacto, orientado a resolver los desafíos cotidianos. Mi meta es estar a la vanguardia de las soluciones tecnológicas, adaptándome constantemente a las nuevas necesidades que surgen. Mi enfoque va más allá de solucionar problemas existentes; me apasiona implementar nuevas formas de abordarlos.<br>
 
 <b>¿Cuáles son las tecnologías que manejo?</b> <br>
-En mi stack de tecnologías, destaco en el uso de PostgreSQL, Sequelize, Node.js, React.js, Redux, Express.js y, por supuesto, JavaScript.<br>
+En mi stack de tecnologías, destaco en el uso de React.js, Redux, Styled-component para el diseño y desarrollo front-end y  Express.js  PostgreSQL y Sequelize para la gestión de servidores y bases de datos.<br>
 
 ¡Disfruto del mundo tecnológico y enfrentar nuevos desafíos! <br> <br>
 
