@@ -10,7 +10,7 @@ Me dedico a la creación de proyectos que no solo me permiten aprender, sino tam
 Busco crear código de alto impacto, orientado a resolver los desafíos cotidianos. Mi meta es estar a la vanguardia de las soluciones tecnológicas, adaptándome constantemente a las nuevas necesidades que surgen. Mi enfoque va más allá de solucionar problemas existentes; me apasiona implementar nuevas formas de abordarlos.<br>
 
 <b>¿Cuáles son las tecnologías que manejo?</b> <br>
-En mi stack de tecnologías destaco en el uso de React, Redux, Styled-component y Tailwind CSS para el diseño y desarrollo front-end y ExpressJS, PostgreSQL y Sequelize para la gestión de servidores y bases de datos. Cuento también con experiencia en NextJS y Typescript.
+En mi stack de tecnologías destaco en el uso de React, Redux, Styled-Component y Tailwind CSS para el diseño y desarrollo front-end y ExpressJS, PostgreSQL y Sequelize para la gestión de servidores y bases de datos. Cuento también con experiencia en NextJS y Typescript.
 
 <br>
 
