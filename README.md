@@ -1,4 +1,5 @@
-<img width="100%" alt="image" src="https://github.com/Aricoins/Aricoins/assets/95644790/2e582249-a05d-432c-8329-e473cd29536d">
+
+![image](https://github.com/Aricoins/Aricoins/assets/95644790/3c7a580b-6482-473e-866e-4be7f736da34)
 
 ¡Saludos! Soy Ariel García Rogel, un <i>developer fullstack</i> con especialización en bases de datos. Mi historia en la tecnología comenzó hace más de 10 años, y desde entonces he descubierto en la programación la herramienta perfecta para fusionar pasión y trabajo, generando un impacto positivo en mi entorno. <br>
 
