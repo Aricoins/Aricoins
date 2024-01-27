@@ -8,13 +8,13 @@ I'M Ariel G Rogel, Developer and Content Creator from Bariloche, Argentina. From
 
 I am dedicated to the creation of projects that not only allow me to read, but also to apply the latest technologies that i master. My Specialization is in JavaScript and TypeScript Development. <br>
 <b> What is my main objective? </b> <br>
-<img src= "https://github.com/aricoins/aricoins/assets/95644790/055c869E" width="20px" height="20px" />
+<img src= "https://github.com/aricoins/aricoins/assets/95644790/055c869E" Width = "20" Height = "20">
 
 
 I seek to create high impact code, aimed at solving everyday challenges. My goal is to be at the forefront of technological solutions, constantly adapting to the new needs that arise. My approach goes beyond solving existing problems; I am passionate to implement new ways of addressing them.
 
 <b> What are the technologies you handle? </b> <br>
-<IMG SRC = "https://github.com/aricoins/aricoins/assets/95644790/aa5b04cf-f6fc-406d-93c1-4a65f14a1b" Width = "30" Height = "30">
+<IMG SRC = "https://github.com/aricoins/aricoins/assets/95644790/aa5b04cf-f6fc-406d-93c1-4a65f14a1b" Width = "20" Height = "20" >
 
 In my technologies Stack I highlight in the use of React, Redux, Styled-Component and Bootstrap for the Front-End and ExpressJS, PostgreSQL and Sequelize design for the management of servers and databases. I also have experience in NextjJS and TailwindCSS.
 
