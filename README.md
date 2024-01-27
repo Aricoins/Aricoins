@@ -13,4 +13,4 @@ In my technologies Stack I highlight in the use of React, Redux, Styled-Componen
 Contact Me at arielgarcia79@gmail.com 
  <br>
 | Portfolio https://portfolio-dmao.vercel.app <br>
-| LinkedIn https://www.linkedin.com/in/aeg/ <br>
+| LinkedIn https://www.linkedin.com/in/aegr/ <br>
