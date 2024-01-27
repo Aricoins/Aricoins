@@ -6,7 +6,7 @@ I am dedicated to the creation o f projects that not only allow me to read, but 
 <b> <img src= "https://github.com/Aricoins/Aricoins/assets/95644790/51f048e4-48c7-4c41-9d88-1fb522c1efb2" Width = "22" Height = "22">
 What is my main objective? </b>  <br>
 I seek to create high impact code, aimed at solving everyday challenges. My goal is to be at the forefront of technological solutions, constantly adapting to the new needs that arise. My approach goes beyond solving existing problems; I am passionate to implement new ways of addressing them. <br> <br>
-<b> <img src= "https://github.com/Aricoins/Aricoins/assets/95644790/43dc6e05-fac3-4f45-b18b-1885703b667f" Width = "22" Height = "22">
+<b> <img src= "https://github.com/Aricoins/Aricoins/assets/95644790/43dc6e05-fac3-4f45-b18b-1885703b667f" Width = "25" Height = "26">
  What are the technologies I handle? </b>  <br>
 In my technologies Stack I highlight in the use of React, Redux, Styled-Component and Bootstrap for the Front-End and ExpressJS, PostgreSQL and Sequelize design for the management of servers and databases. I also have experience in NextjJS and TailwindCSS. <br> <br>
 📫 i'd love to talk about Anything Related to Development Projects, Feel Free to  <br> 
