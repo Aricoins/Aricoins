@@ -2,8 +2,8 @@ Hello 👋
 
 I'M Ariel G Rogel, Developer and Content Creator from Bariloche, Argentina. From a while to this part I have specialization in digital preservation and more recently the development of web applications where I have discovered the perfect tool to merge passion and work. <br>
 
-<b> What is I currently focusing? </b> <br>
-<img src= "https://github.com/aricoins/aricoins/assets/95644790/1A09039D-2980-4295-9D40-E95608F7878B" Width = "20" Height = "20">
+<b> <img src= "https://github.com/aricoins/aricoins/assets/95644790/1A09039D-2980-4295-9D40-E95608F7878B" Width = "20" Height = "20"> What is I currently focusing? </b> <br>
+
 
 
 I am dedicated to the creation of projects that not only allow me to read, but also to apply the latest technologies that i master. My Specialization is in JavaScript and TypeScript Development. <br>
