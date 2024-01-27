@@ -7,8 +7,10 @@ I'M Ariel G Rogel, Developer and Content Creator from Bariloche, Argentina. From
 
 
 I am dedicated to the creation of projects that not only allow me to read, but also to apply the latest technologies that i master. My Specialization is in JavaScript and TypeScript Development. <br>
+<img src= "https://github.com/Aricoins/Aricoins/assets/95644790/51f048e4-48c7-4c41-9d88-1fb522c1efb2" ) Width = "20" Height = "20">
+
 <b> What is my main objective? </b> <br>
-<img src= "https://github.com/aricoins/aricoins/assets/95644790/055c869E" Width = "20" Height = "20">
+"https://github.com/aricoins/aricoins/assets/95644790/055c869E" 
 
 
 I seek to create high impact code, aimed at solving everyday challenges. My goal is to be at the forefront of technological solutions, constantly adapting to the new needs that arise. My approach goes beyond solving existing problems; I am passionate to implement new ways of addressing them.
