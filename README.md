@@ -1,27 +1,25 @@
-
 Aricoins
 Hello 👋
 
-I'm Ariel G Rogel, developer and content creator from Bariloche, Argentina. De un tiempo a esta parte me he especialización en la preservación digital y más recientemente el desarrollo de aplicaciones web donde he descubierto la herramienta perfecta para fusionar pasión y trabajo.
+I'M Ariel G Rogel, Developer and Content Creator from Bariloche, Argentina. From a while to this part I have specialization in digital preservation and more recently the development of web applications where I have discovered the perfect tool to merge passion and work. <br>
 
-<b>¿En qué me enfoco actualmente?</b><br>
-<img src="https://github.com/Aricoins/Aricoins/assets/95644790/1a09039d-2980-4295-9d40-e95608f7878b" width="30" height="30">
-
-
-Me dedico a la creación de proyectos que no solo me permiten aprender, sino también aplicar las últimas tecnologías que domino. Mi especialización se encuentra en el desarrollo con JavaScript y Typescript.
-<b>¿Cuál es mi objetivo principal?</b><br>
-<img src="https://github.com/Aricoins/Aricoins/assets/95644790/055c869e-5f36-45eb-86c7-8f6eafe76194" width="30" height="30">
+<b> What is I currently focusing? </b> <br>
+<IMG SRC = "https://github.com/aricoins/aricoins/assets/95644790/1A09039D-2980-4295-9D40-E95608F7878B" Width = "30" Height = "30"
 
 
-Busco crear código de alto impacto, orientado a resolver los desafíos cotidianos. Mi meta es estar a la vanguardia de las soluciones tecnológicas, adaptándome constantemente a las nuevas necesidades que surgen. Mi enfoque va más allá de solucionar problemas existentes; me apasiona implementar nuevas formas de abordarlos.
-
-<b>¿Cuáles son las tecnologías que manejo?</b> <br>
-<img src="https://github.com/Aricoins/Aricoins/assets/95644790/aa5b04cf-f6fc-406d-93c1-4a65f14a1a1b" width="30" height="30">
-
-En mi stack de tecnologías destaco en el uso de React, Redux, Styled-Component y Tailwind CSS para el diseño y desarrollo front-end y ExpressJS, PostgreSQL y Sequelize para la gestión de servidores y bases de datos. Cuento también con experiencia en NextJS y Typescript.
-
-📫 I'd love to talk about anything related to Development Projects , feel free to contact me at arielgarcia@gmail.com
-
-| Visitá mi portafolio https://portfolio-dmao.vercel.app/ | Seguí mis publicaciones en LinkedIn https://www.linkedin.com/in/aegr/ | Revisá mis proyectos en GitHub https://github.com/Aricoins |
+I am dedicated to the creation of projects that not only allow me to read, but also to apply the latest technologies that i master. My Specialization is in JavaScript and TypeScript Development. <br>
+<b> What is my main objective? </b> <br>
+<IMG SRC = "https://github.com/aricoins/aricoins/assets/95644790/055c869E
 
 
+I seek to create high impact code, aimed at solving everyday challenges. My goal is to be at the forefront of technological solutions, constantly adapting to the new needs that arise. My approach goes beyond solving existing problems; I am passionate to implement new ways of addressing them.
+
+<b> What are the technologies you handle? </b> <br>
+<IMG SRC = "https://github.com/aricoins/aricoins/assets/95644790/aa5b04cf-f6fc-406d-93c1-4a65f14a1b" Width = "30" Height = "30"
+
+In my technologies Stack I highlight in the use of React, Redux, Styled-Component and Bootstrap for the Front-End and ExpressJS, PostgreSQL and Sequelize design for the management of servers and databases. I also have experience in NextjJS and TailwindCSS.
+
+📫 i'd love to talk about Anything Related to Development Projects, Feel Free to Contact Me at Arielgarcia@gmail.com
+
+| Portfolio https://portfolio-dmao.se
+| LinkedIn https://www.linkedin.com/in/aeg/
