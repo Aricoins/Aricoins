@@ -13,8 +13,10 @@ What is my main objective? </b> <br>
 
 I seek to create high impact code, aimed at solving everyday challenges. My goal is to be at the forefront of technological solutions, constantly adapting to the new needs that arise. My approach goes beyond solving existing problems; I am passionate to implement new ways of addressing them.
 
-<b> <img src= "https://github.com/aricoins/aricoins/assets/95644790/aa5b04cf-f6fc-406d-93c1-4a65f14a1b" Width = "20" Height = "20">
- What are the technologies you handle? </b> <br>
+<b> <img src= "https://github.com/Aricoins/Aricoins/assets/95644790/6ea9ce94-66fd-4f40-ae4e-8143112dd36c" Width = "20" Height = "20">
+![imagen](https://github.com/Aricoins/Aricoins/assets/95644790/6ea9ce94-66fd-4f40-ae4e-8143112dd36c)
+
+ What are the technologies I handle? </b> <br>
 
 In my technologies Stack I highlight in the use of React, Redux, Styled-Component and Bootstrap for the Front-End and ExpressJS, PostgreSQL and Sequelize design for the management of servers and databases. I also have experience in NextjJS and TailwindCSS.
 
