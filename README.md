@@ -9,8 +9,8 @@ I seek to create high impact code, aimed at solving everyday challenges. My goal
 <b> <img src= "https://github.com/Aricoins/Aricoins/assets/95644790/43dc6e05-fac3-4f45-b18b-1885703b667f" Width = "25" Height = "26">
  What are the technologies I handle? </b>  <br>
 In my technologies Stack I highlight in the use of React, Redux, Styled-Component and Bootstrap for the Front-End and ExpressJS, PostgreSQL and Sequelize design for the management of servers and databases. I also have experience in NextjJS and TailwindCSS. <br> <br>
-📫 i'd love to talk about Anything Related to Development Projects,  <br>  <br> Feel Free to 
-Contact Me at arielgarcia79@gmail.com 
+📫 i'd love to talk about anything related to development projects..  <br>  <br> Feel Free to 
+Contact Me! <br> arielgarcia79@gmail.com 
  <br>
 | Portfolio https://portfolio-dmao.vercel.app <br>
 | LinkedIn https://www.linkedin.com/in/aegr/ <br>
