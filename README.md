@@ -1,14 +1,10 @@
-Hello 👋
-
-
-I'm Ariel G. Rogel, a Developer and Content Creator hailing from Bariloche, Argentina. I've delved into the fascinating realms of digital preservation, and more recently, I've found my passion converging seamlessly with my work in web application development. 🚀
-
-Currently, I'm exploring the enchanting domains of web animation and machine learning in programming. 🌐🤖
-
-I am in a perpetual state of learning, driven by curiosity and a relentless desire to expand my skills. My journey in the vast landscape of technology is an ever-evolving adventure. 🚀✨
-
-📫 i'd love to talk about anything related to development projects..  <br>  <br> Feel Free to 
-Contact Me! <br> arielgarcia79@gmail.com 
- <br>
-| Portfolio https://portfolio-dmao.vercel.app <br>
-| LinkedIn https://www.linkedin.com/in/aegr/ <br>
+Me gradué como full stack developer en Henry y trabajo como programador y data manager en el Departamento de Digesto de Bariloche, mi ciudad.  🏞️
+Dia a dia me desafío para dar soluciones de vanguardia  por lo que estoy siempre codeando, diseñando o aprendiendo.  Talentoso y colaborativo, disfruto de las metodologias ágiles y el trabajo en equipo por resultados. 🚀
+Competente en NodeJS, JavaScript, HTML, CSS y SQL.
+Tailwind  Bootstrap  Styled-Component  React  Redux Express  PostgreSQL  MySQL  NextJS 
+UX/UI  Typescript Jest Scrum Git 
+✨
+Mi tema  de charla favorito: cualquiera que tenga que ver con la programación. 👨🏻‍💻
+Escribime:
+📫 
+arielgarcia79@gmail.com
