@@ -1,4 +1,3 @@
-Trabajo como programador y data manager freelance.  🏞️
 <br>
 Dia a dia me desafío para dar soluciones de vanguardia  por lo que estoy siempre codeando, diseñando o aprendiendo.<br>
 Talentoso y colaborativo, disfruto de las metodologias ágiles y el trabajo en equipo. 🚀 <br> <br>
