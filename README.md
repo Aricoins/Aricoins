@@ -11,5 +11,5 @@ UX/UI | Javascript | Jest | Scrum | Git | Jira <br>
 Mi tema  de charla favorito: cualquiera que tenga que ver con la programación. 👨🏻‍💻 <br>
 Escribime o concertá una charla en mi web:<br>
 📫 
-arielgarcia79@gmail.com <br>
+arielrogeldev@gmail.com <br>
 https://www.latitud42.tech/ <br>
