@@ -1,9 +1,3 @@
-<br>
-Doy soluciones programáticas, por lo que estoy siempre codeando, diseñando o aprendiendo.<br> <br>
-
-Talentoso y colaborativo, disfruto de las metodologias ágiles y el trabajo en equipo.  <br> <br>
-
-Competente en React, Angular, NodeJS, TypeScript, NextJS, NestJS, HTML, CSS y SQL.<br> <br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ariel+Rogel!;Full+Stack+Developer+🚀;" />
 </div>
@@ -163,4 +157,5 @@ Escribime o agendá una charla en el calendedario de mi portfolio:<br>
 📫 
 arielrogeldev@gmail.com <br>
 https://www.latitud42.tech/ <br>
+
 
