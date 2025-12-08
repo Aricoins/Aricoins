@@ -77,34 +77,49 @@ Building scalable digital products that connect technology with real-world impac
 
 <h2 align="center">🎯 Featured Projects</h2>
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td>
 <a href="https://github.com/aricoins/next-ai-chat-langchain">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=next-ai-chat-langchain&theme=react&border_radius=10" />
 </a>
+</td>
 
+<td>
 <a href="https://github.com/aricoins/model-context-protocol">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=model-context-protocol&theme=react&border_radius=10" />
 </a>
+</td>
+</tr>
 
+<tr>
+<td>
 <a href="https://github.com/aricoins/apollonia-employee-management">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=apollonia-employee-management&theme=react&border_radius=10" />
 </a>
+</td>
 
+<td>
 <a href="https://github.com/aricoins/wecode">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=wecode&theme=react&border_radius=10" />
 </a>
+</td>
+</tr>
 
+<tr>
+<td>
 <a href="https://github.com/aricoins/apicargo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=apicargo&theme=react&border_radius=10" />
 </a>
+</td>
 
+<td>
 <a href="https://github.com/aricoins/APIRest">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=APIRest&theme=react&border_radius=10" />
 </a>
-
-</div>
-
+</td>
+</tr>
+</table>
 ---
 
 <h2 align="center">🤖 AI & Cloud Focus</h2>
@@ -200,3 +215,4 @@ Open to **remote opportunities worldwide** 🌐
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
+
