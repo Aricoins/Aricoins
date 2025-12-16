@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+there!+👋;I'm+Ariel+Rogel;Full+Stack+Developer+%26+AI+Integration+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+there!+👋;I'm+Ariel+Rogel;+Full+Stack+Developer+%26+AI+Integration+🚀" />
 </div>
 
 <h3 align="center">
@@ -215,4 +215,5 @@ Open to **remote opportunities worldwide** 🌐
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
+
 
