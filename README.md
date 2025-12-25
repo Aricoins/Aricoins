@@ -31,6 +31,18 @@ Building scalable digital products that connect technology with real-world impac
 
 ---
 
+<h2 align="center">🔥 Development Streak</h2>
+
+<div align="center">
+
+🚀 **Coding Streak:** 1,200+ consecutive days  
+⚡ **Consistency:** Daily commits across multiple production systems  
+🧠 **Focus:** Long-term systems, not vanity metrics  
+
+</div>
+
+---
+
 <h2 align="center">🔥 Tech Stack 🔥</h2>
 
 <div align="center">
@@ -218,6 +230,7 @@ Open to **remote task worldwide** 🌐
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
+
 
 
 
