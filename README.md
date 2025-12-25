@@ -16,17 +16,6 @@ Building scalable digital products that connect technology with real-world impac
 
 </div>
 
----
-<h2 align="center">⚡ Engineering Consistency</h2>
-
-<div align="center">
-
-🔥 **Unstoppable Builder** — Shipping continuously since 2018  
-📈 **1,000+ contributions/year** across SaaS, AI & Cloud systems  
-🚀 **Production-first mindset** — real users, real impact  
-
-</div>
- 
 
 
 <div align="center">
@@ -94,35 +83,10 @@ Building scalable digital products that connect technology with real-world impac
 ---
 ## 🎯 Selected Public Projects
 
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/aricoins/model-context-protocol">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=model-context-protocol&theme=react&border_radius=10" />
-</a>
-</td>
-
-<td>
-<a href="https://github.com/aricoins/langchain_doc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=langchain_doc&theme=react&border_radius=10" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/aricoins/apicargo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=apicargo&theme=react&border_radius=10" />
-</a>
-</td>
-
-<td>
-<a href="https://github.com/aricoins/apollonia-employee-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aricoins&repo=apollonia-employee-management&theme=react&border_radius=10" />
-</a>
-</td>
-</tr>
-</table>
+- **Model Context Protocol (MCP) practices** — https://github.com/aricoins/model-context-protocol  
+- **LangChain Node Demo** — https://github.com/aricoins/langchain_doc  
+- **API Cargo (REST)** — https://github.com/aricoins/apicargo  
+- **Employee Management CRUD** — https://github.com/aricoins/apollonia-employee-management  
 
 ---
 
@@ -130,17 +94,17 @@ Building scalable digital products that connect technology with real-world impac
 
 <div align="center">
 
-🔓 **Public Repositories**
+🔓 <b>Public Repositories</b>  
 - AI & Model Context Protocol (MCP) experiments  
-- LangChain demos with Node.js & TypeScript  
+- LangChain demos  
 - API-first backend systems  
 
-🔒 **Private Production Systems**
+🔒 <b>Private Production Systems</b>  
 - Legal SaaS (LawCase) — authentication, sessions, billing  
 - AI-powered document indexing & retrieval  
 - Scalable cloud-native architectures  
 
-📩 *Private repositories available upon request*
+📩 <i>Private repositories available upon request</i>
 
 </div>
 ---
@@ -238,6 +202,7 @@ Open to **remote task worldwide** 🌐
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
+
 
 
 
