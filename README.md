@@ -19,6 +19,7 @@ Building scalable digital products that connect technology with real-world impac
 ---
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
+<img src="https://img.shields.io/badge/🔥%20Streak-Unstoppable%20since%202018-ff4500?style=for-the-badge" />
 
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=aricoins&show_icons=true&count_private=true&theme=react&border_radius=10" alt="GitHub stats" />
@@ -215,6 +216,7 @@ Open to **remote task worldwide** 🌐
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
+
 
 
 
