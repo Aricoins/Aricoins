@@ -27,7 +27,6 @@ Building scalable digital products that connect technology with real-world impac
 
 </div>
  
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 
 <div align="center">
@@ -37,24 +36,11 @@ Building scalable digital products that connect technology with real-world impac
 
 🚀 **Coding Streak:** 1,200+ consecutive days  
 ⚡ **Consistency:** Daily commits across multiple production systems  
-🧠 **Focus:** Long-term systems, not vanity metrics  
 
 </div>
 
   <br/>
   <img src="https://img.shields.io/badge/Development%20Streak-Consistent%20Since%202018-0a66c2?style=for-the-badge" />
-
-</div>
-
----
-
-<h2 align="center">🔥 Development Streak</h2>
-
-<div align="center">
-
-🚀 **Coding Streak:** 1,200+ consecutive days  
-⚡ **Consistency:** Daily commits across multiple production systems  
-🧠 **Focus:** Long-term systems, not vanity metrics  
 
 </div>
 
@@ -247,6 +233,7 @@ Open to **remote task worldwide** 🌐
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
+
 
 
 
