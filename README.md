@@ -22,7 +22,16 @@ Building scalable digital products that connect technology with real-world impac
 
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=aricoins&show_icons=true&count_private=true&theme=react&border_radius=10" alt="GitHub stats" />
+<h2 align="center">🔥 Development Streak</h2>
+
+<div align="center">
+
+🚀 **Coding Streak:** 1,200+ consecutive days  
+⚡ **Consistency:** Daily commits across multiple production systems  
+🧠 **Focus:** Long-term systems, not vanity metrics  
+
+</div>
+
   <br/>
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aricoins&theme=react&border_radius=10" alt="GitHub streak" />
   <img src="https://img.shields.io/badge/Development%20Streak-Consistent%20Since%202018-0a66c2?style=for-the-badge" />
@@ -230,6 +239,7 @@ Open to **remote task worldwide** 🌐
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
+
 
 
 
