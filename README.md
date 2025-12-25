@@ -206,15 +206,16 @@ Building scalable digital products that connect technology with real-world impac
 
 ---
 
-<h2 align="center">🌍 Based in Bariloche, Argentina</h2>
+<h2 align="center">🌍 Based in Buenos Aires, Argentina</h2>
 
 <div align="center">
 
-Open to **remote opportunities worldwide** 🌐  
+Open to **remote task worldwide** 🌐  
 
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
+
 
 
 
