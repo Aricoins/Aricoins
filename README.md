@@ -8,7 +8,7 @@ Building scalable digital products that connect technology with real-world impac
 
 <div align="center">
 
-🔭 Currently working at **LawCase** — Legal SaaS Platform  
+🔭 Currently working at **Flexibility** — Tech Platform  
 🌱 Focused on **AI Integration, Cloud Architecture & Scalable Systems**  
 💬 Ask me about **React, Node.js, TypeScript, System Design**  
 📫 Reach me at **arielrogeldev@gmail.com**  
@@ -53,8 +53,15 @@ Building scalable digital products that connect technology with real-world impac
 
 <h2 align="center">💼 Professional Experience</h2>
 
+### 🚀 Full Stack Developer — **Flexibility** 
+- Led the end-to-end architecture and delivery of a regulated pharmaceutical marketplace, enabling prescription validation, pharmacy integration, and full transaction traceability Architected a scalable Nx monorepo with NestJS + Prisma + PostgreSQL backend and React multi-app frontend, improving maintainability and developer productivity
+- Designed and optimized a high-performance catalog sync pipeline (~190K products), significantly reducing load times and scaling to 500K+ products through batched transactional processing
+- Built a fault-tolerant orders and payments engine integrating MercadoPago, including idempotent recalculation, order state management, and resilient payment flows
+- Implemented secure authentication and authorization (JWT, Passport, Redis) with role-based access control in a multi-tenant system
+
+
+
 ### 🚀 Full Stack Developer — **LawCase** (Legal SaaS Platform)
-*Apr 2025 – Present*
 
 - Designed and implemented a robust **authentication and session management system**
 - Developed **user profile modules** for professional and account configuration
@@ -64,7 +71,7 @@ Building scalable digital products that connect technology with real-world impac
 ---
 
 ### 🏥 Full Stack Developer — **PediaPartner** (Pediatric Medical System)
-*Nov 2022 – Apr 2025*
+
 
 - Led **SISA API integration**, reducing medical credential validation time by **80%**
 - Designed **intelligent scheduling algorithms** to prevent double bookings
@@ -74,7 +81,6 @@ Building scalable digital products that connect technology with real-world impac
 ---
 
 ### 🌐 Full Stack Developer — **DiBiaseNet**
-*Jan 2018 – Oct 2022*
 
 - Developed a full-stack document management platform
 - Implemented **AI-assisted document indexing** and search
