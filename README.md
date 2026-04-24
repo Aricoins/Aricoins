@@ -1,35 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+there!+👋;I'm+Ariel+Rogel;FullStack+Developer+%26+AI🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+there!+👋;I'm+Ariel+Rogel;Full+Stack+Developer+%26+AI+Builder🚀" />
 </div>
 
 <h3 align="center">
-Building scalable digital products that connect technology with real-world impact 🌍
+Building scalable systems that connect technology with real-world impact 🌍
 </h3>
 
 <div align="center">
 
 🔭 Currently working at **Flexibility** — Tech Platform  
 🌱 Focused on **AI Integration, Cloud Architecture & Scalable Systems**  
-💬 Ask me about **React, Node.js, TypeScript, System Design**  
+💬 Ask me about **React, Node.js, TypeScript, NestJS & System Design**  
 📫 Reach me at **arielrogeldev@gmail.com**  
 ⚡ I enjoy transforming complex problems into clean, scalable solutions  
 
 </div>
 
-
+---
 
 <div align="center">
+
 <h2 align="center">🔥 Development Streak</h2>
-
-<div align="center">
 
 🚀 **Coding Streak:** 1,200+ consecutive days  
 ⚡ **Consistency:** Daily commits across multiple production systems  
 
-</div>
+<br/>
 
-  <br/>
-  <img src="https://img.shields.io/badge/Development%20Streak-Consistent%20Since%202018-0a66c2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Development%20Streak-Consistent%20Since%202018-0a66c2?style=for-the-badge" />
 
 </div>
 
@@ -53,46 +51,50 @@ Building scalable digital products that connect technology with real-world impac
 
 <h2 align="center">💼 Professional Experience</h2>
 
-### 🚀 Full Stack Developer — **Flexibility** 
-- Led the end-to-end architecture and delivery of a regulated pharmaceutical marketplace, enabling prescription validation, pharmacy integration, and full transaction traceability Architected a scalable Nx monorepo with NestJS + Prisma + PostgreSQL backend and React multi-app frontend, improving maintainability and developer productivity
-- Designed and optimized a high-performance catalog sync pipeline (~190K products), significantly reducing load times and scaling to 500K+ products through batched transactional processing
-- Built a fault-tolerant orders and payments engine integrating MercadoPago, including idempotent recalculation, order state management, and resilient payment flows
-- Implemented secure authentication and authorization (JWT, Passport, Redis) with role-based access control in a multi-tenant system
+### 🚀 Full Stack Developer — **Flexibility**
 
-
-
-### 🚀 Full Stack Developer — **LawCase** (Legal SaaS Platform)
-
-- Designed and implemented a robust **authentication and session management system**
-- Developed **user profile modules** for professional and account configuration
-- Implemented **advanced frontend error handling** and global state management
-- Active contributor in **code reviews and architectural discussions**
+- Led the end-to-end architecture and delivery of a regulated pharmaceutical marketplace, enabling prescription validation, pharmacy integration, and full transaction traceability.
+- Architected a scalable Nx monorepo with a NestJS, Prisma, and PostgreSQL backend, plus a React multi-app frontend, improving maintainability and developer productivity.
+- Designed and optimized a high-performance catalog sync pipeline for approximately 190K products, scaling toward 500K+ products through batched transactional processing.
+- Built a fault-tolerant orders and payments engine integrated with MercadoPago, including idempotent recalculation, order state management, and resilient payment flows.
+- Implemented secure authentication and authorization using JWT, Passport, Redis, and role-based access control in a multi-tenant system.
 
 ---
 
-### 🏥 Full Stack Developer — **PediaPartner** (Pediatric Medical System)
+### 🚀 Full Stack Developer — **LawCase**  
+**Legal SaaS Platform**
 
+- Designed and implemented a robust **authentication and session management system**.
+- Developed **user profile modules** for professional and account configuration.
+- Implemented **advanced frontend error handling** and global state management.
+- Actively contributed to **code reviews and architectural discussions**.
 
-- Led **SISA API integration**, reducing medical credential validation time by **80%**
-- Designed **intelligent scheduling algorithms** to prevent double bookings
-- Built **Cloud Functions** for automated and personalized email notifications
-- Integrated **Google Meet API** for telemedicine workflows
+---
+
+### 🏥 Full Stack Developer — **PediaPartner**  
+**Pediatric Medical System**
+
+- Led the **SISA API integration**, reducing medical credential validation time by **80%**.
+- Designed **intelligent scheduling algorithms** to prevent double bookings.
+- Built **Cloud Functions** for automated and personalized email notifications.
+- Integrated the **Google Meet API** for telemedicine workflows.
 
 ---
 
 ### 🌐 Full Stack Developer — **DiBiaseNet**
 
-- Developed a full-stack document management platform
-- Implemented **AI-assisted document indexing** and search
-- Built **advanced multi-criteria search systems** for fast data retrieval
+- Developed a full-stack document management platform.
+- Implemented **AI-assisted document indexing** and search.
+- Built **advanced multi-criteria search systems** for fast data retrieval.
 
 ---
+
 ## 🎯 Selected Public Projects
 
-- **Model Context Protocol (MCP) practices** — https://github.com/aricoins/model-context-protocol  
-- **LangChain Node Demo** — https://github.com/aricoins/langchain_doc  
-- **API Cargo (REST)** — https://github.com/aricoins/apicargo  
-- **Employee Management CRUD** — https://github.com/aricoins/apollonia-employee-management  
+- **Model Context Protocol (MCP) Practices** — [Repository](https://github.com/aricoins/model-context-protocol)
+- **LangChain Node Demo** — [Repository](https://github.com/aricoins/langchain_doc)
+- **API Cargo REST API** — [Repository](https://github.com/aricoins/apicargo)
+- **Employee Management CRUD** — [Repository](https://github.com/aricoins/apollonia-employee-management)
 
 ---
 
@@ -101,18 +103,21 @@ Building scalable digital products that connect technology with real-world impac
 <div align="center">
 
 🔓 <b>Public Repositories</b>  
-- AI & Model Context Protocol (MCP) experiments  
-- LangChain demos  
-- API-first backend systems  
+
+AI & Model Context Protocol (MCP) experiments  
+LangChain demos  
+API-first backend systems  
 
 🔒 <b>Private Production Systems</b>  
-- Legal SaaS (LawCase) — authentication, sessions, billing  
-- AI-powered document indexing & retrieval  
-- Scalable cloud-native architectures  
+
+Legal SaaS platform — authentication, sessions, and billing  
+AI-powered document indexing and retrieval  
+Scalable cloud-native architectures  
 
 📩 <i>Private repositories available upon request</i>
 
 </div>
+
 ---
 
 <h2 align="center">🤖 AI & Cloud Focus</h2>
@@ -121,8 +126,8 @@ Building scalable digital products that connect technology with real-world impac
 
 🧠 **Model Context Protocol (MCP)** — practical implementations  
 🤖 **LangChain & AI Chat** — production-ready Next.js applications  
-📚 **Document AI** — intelligent indexing & retrieval systems  
-☁️ **Cloud Architecture** — scalable solutions on GCP & AWS  
+📚 **Document AI** — intelligent indexing and retrieval systems  
+☁️ **Cloud Architecture** — scalable solutions on GCP and AWS  
 
 </div>
 
@@ -149,7 +154,7 @@ Building scalable digital products that connect technology with real-world impac
 
 🎯 1,000+ contributions in the last year  
 🚀 Multiple production-ready projects  
-⚖️ Experience building LegalTech & HealthTech platforms  
+⚖️ Experience building LegalTech and HealthTech platforms  
 🤖 Applied AI in real-world systems  
 ☁️ Strong focus on cloud-native architectures  
 
@@ -161,11 +166,11 @@ Building scalable digital products that connect technology with real-world impac
 
 <div align="center">
 
-💡 **Problem Solver** — Turn complex requirements into scalable solutions  
-🔄 **Full Lifecycle Ownership** — From idea to production and maintenance  
-🤝 **Collaborative Engineer** — Code reviews, mentoring & clean architecture  
-🚀 **Innovation Mindset** — AI, automation & modern system design  
-📈 **Results-Oriented** — Measurable impact (80% efficiency gains)  
+💡 **Problem Solver** — I turn complex requirements into scalable solutions.  
+🔄 **Full Lifecycle Ownership** — From idea to production and maintenance.  
+🤝 **Collaborative Engineer** — Code reviews, mentoring, and clean architecture.  
+🚀 **Innovation Mindset** — AI, automation, and modern system design.  
+📈 **Results-Oriented** — Measurable impact, including 80% efficiency gains.  
 
 </div>
 
@@ -199,25 +204,12 @@ Building scalable digital products that connect technology with real-world impac
 
 ---
 
-<h2 align="center">🌍 Based in Buenos Aires, Argentina</h2>
+<h2 align="center">🌍 Based in Patagonia, Argentina</h2>
 
 <div align="center">
 
-Open to **remote task worldwide** 🌐  
+Open to **remote work worldwide** 🌐  
 
 *Favorite topic: anything related to software development 👨🏻‍💻*
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
